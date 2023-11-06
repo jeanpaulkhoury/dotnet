@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pokless/Desktop/backup/testcsharp/testcsharp.csproj": {}
+    "/home/pokless/Desktop/dotnet/testcsharp.csproj": {}
   },
   "projects": {
-    "/home/pokless/Desktop/backup/testcsharp/testcsharp.csproj": {
+    "/home/pokless/Desktop/dotnet/testcsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pokless/Desktop/backup/testcsharp/testcsharp.csproj",
+        "projectUniqueName": "/home/pokless/Desktop/dotnet/testcsharp.csproj",
         "projectName": "testcsharp",
-        "projectPath": "/home/pokless/Desktop/backup/testcsharp/testcsharp.csproj",
+        "projectPath": "/home/pokless/Desktop/dotnet/testcsharp.csproj",
         "packagesPath": "/home/pokless/.nuget/packages/",
-        "outputPath": "/home/pokless/Desktop/backup/testcsharp/obj/",
+        "outputPath": "/home/pokless/Desktop/dotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pokless/.nuget/NuGet/NuGet.Config"
