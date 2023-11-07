@@ -3,13 +3,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Xunit;
 
-namespace testcsharp.Tests
+namespace ConsoleApplication
 {
-    public class MiddlewareTests : IClassFixture<WebApplicationFactory<testcsharp.Startup>>
+    public class MiddlewareTests : IClassFixture<WebApplicationFactory<ConsoleApplication.Startup>>
     {
-        private readonly WebApplicationFactory<testcsharp.Startup> _factory;
+        private readonly WebApplicationFactory<ConsoleApplication.Startup> _factory;
 
-        public MiddlewareTests(WebApplicationFactory<testcsharp.Startup> factory)
+        public MiddlewareTests(WebApplicationFactory<ConsoleApplication.Startup> factory)
         {
             _factory = factory;
         }
