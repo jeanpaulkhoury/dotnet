@@ -1,6 +1,0 @@
-/home/pokless/Desktop/dotnet/obj/Debug/net6.0/linux-x64/testcsharp.csproj.AssemblyReference.cache
-/home/pokless/Desktop/dotnet/obj/Debug/net6.0/linux-x64/testcsharp.GeneratedMSBuildEditorConfig.editorconfig
-/home/pokless/Desktop/dotnet/obj/Debug/net6.0/linux-x64/testcsharp.AssemblyInfoInputs.cache
-/home/pokless/Desktop/dotnet/obj/Debug/net6.0/linux-x64/testcsharp.AssemblyInfo.cs
-/home/pokless/Desktop/dotnet/obj/Debug/net6.0/linux-x64/testcsharp.csproj.CoreCompileInputs.cache
-/home/pokless/Desktop/dotnet/obj/Debug/net6.0/linux-x64/testcsharp.MvcApplicationPartsAssemblyInfo.cache

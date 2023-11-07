@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Xunit;
 
-namespace ConsoleApplication
+namespace testcsharp.Tests
 {
     public class MiddlewareTests : IClassFixture<WebApplicationFactory<ConsoleApplication.Startup>>
     {
